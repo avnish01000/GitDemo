@@ -15,7 +15,8 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        assertTrue( false );
         //Verify that this comment is there even after pulling latest changes
+        
     }
 }
