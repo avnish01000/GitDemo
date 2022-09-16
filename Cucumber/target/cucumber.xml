@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.438">
+    <testcase classname="Google Search" name="Form Submission using Data Driven DataTable" time="0.078">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Backgroun1............................................................passed
+When Background2............................................................passed
+Then Background3............................................................passed
+Given Launch Form...........................................................undefined
+When Enter Below USer Details...............................................skipped
+And Click Submit Button.....................................................skipped
+Then Form is submitted successfully.........................................skipped
+]]></failure>
+    </testcase>
+</testsuite>
