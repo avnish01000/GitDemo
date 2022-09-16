@@ -16,5 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        //Verify that this comment is there even after pulling latest changes
     }
 }
